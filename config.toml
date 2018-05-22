@@ -1,0 +1,20 @@
+theme = "hyde"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Curiosity First"
+
+[Params]
+  description = "I talk to computers - sometimes they understand me."
+  copyright = " "
+
+[[menu.main]]  
+	url = "https://www.linkedin.com/in/micha%C5%82-cisek-654381113/"
+	name = "LinkedIn"
+
+[[menu.main]]
+	url = "https://github.com/michalcisek"
+	name = "Github"
+	
+[[menu.main]]
+	url = "/CV/CisekMichal_CV.pdf"
+	name = "Curriculum Vitae"
